@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"consulenv/commands"
+	"github.com/smartpricer/consulenv/commands"
 )
 
 //

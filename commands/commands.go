@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"consulenv/consul"
+	"github.com/smartpricer/consulenv/consul"
 	"path/filepath"
 
 	"github.com/spf13/cobra"
